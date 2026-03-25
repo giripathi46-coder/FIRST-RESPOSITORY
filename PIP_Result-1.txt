@@ -1,0 +1,89 @@
+Exp 5
+Language
+	In this experiment, I wrote a Python program to demonstrate set operations such as union, intersection, difference, and symmetric difference using two sets. The program helped me understand how sets store unique elements and how different operations can be performed to compare and manipulate them.
+	This experiment provided practical knowledge related to Course Outcome C116.4 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Components of an automobile
+	In this experiment, I wrote a Python program to demonstrate the use of dictionaries to store and display automobile components. I performed various dictionary operations such as update, pop, popitem, delete, and clear, which helped me understand how to manipulate dictionary data effectively. This experiment improved my knowledge of dictionary methods and their practical applications.
+	This experiment provided practical knowledge related to Course Outcome C116.4 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Elements of a civil structure
+	In this experiment, I wrote a Python program to demonstrate the use of sets for storing and manipulating elements of a civil structure. I performed various set operations such as add, update, remove, discard, pop, sorting, union, intersection, difference, and symmetric difference. This experiment enhanced my understanding of set properties and operations in Python.
+	This experiment provided practical knowledge related to Course Outcome C116.4 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Exp 6
+Factorial
+	In this experiment, I wrote a Python program to calculate the factorial of a given number using a user-defined function. The program successfully computed the factorial by using a loop inside the function and returned the result. This experiment helped me understand the concept of functions, function calling, and iterative calculations in Python.
+	This experiment provided practical knowledge related to Course Outcome C116.3 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO4, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Largest number in a list
+	In this experiment, I wrote a Python program to find the largest number in a list using a user-defined function. The program compared each element in the list and determined the maximum value successfully. This experiment helped me understand how to use functions and conditional statements to solve problems in Python.
+	This experiment provided practical knowledge related to Course Outcome C116.3 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO4, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Area of shape
+	In this experiment, I wrote a Python program to calculate the area of different shapes using a user-defined function. The program successfully computed the area based on the selected shape using conditional statements. This experiment helped me understand the use of functions, user input, and decision-making statements in Python.
+	This experiment provided practical knowledge related to Course Outcome C116.3 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO4, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Exp 7
+String reverse
+	In this experiment, I wrote a Python program to reverse a given string using the built-in reversed() function. The program successfully reversed the input string and displayed the result. This experiment helped me understand string manipulation and the use of string functions in Python.
+	This experiment provided practical knowledge related to Course Outcome C116.3 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO4, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Palindrome
+	In this experiment, I wrote a Python program to check whether a given string is a palindrome using string functions. The program converted the string to lowercase, reversed it, and compared both strings to determine the result. This experiment helped me understand string manipulation and conditional statements in Python.
+	This experiment provided practical knowledge related to Course Outcome C116.3 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO4, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Character count
+	In this experiment, I wrote a Python program to find the total number of characters in a string and to count the occurrences of a specific character using string functions. The program successfully displayed the length of the string and the count of the given character. This experiment helped me understand the use of built-in string methods like len() and count() in Python.
+	This experiment provided practical knowledge related to Course Outcome C116.3 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO4, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Replacing characters
+	In this experiment, I wrote a Python program to replace characters or words in a given string using the replace() string function. The program successfully replaced the specified old string with the new string and displayed the updated result. This experiment helped me understand string manipulation using built-in functions in Python.
+	This experiment provided practical knowledge related to Course Outcome C116.3 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO4, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+====
+
+Exp 8
+NumPy
+	In this experiment, I implemented a Python program using NumPy to create and manipulate 1D, 2D, and 3D arrays. The arrays were displayed, and specific elements were accessed using indexing, which enhanced my understanding of multi-dimensional array operations and basic NumPy functionality.
+	This experiment provided practical knowledge related to Course Outcome C116.5 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Pandas
+	I developed a Python program using Pandas to work with a Series and a DataFrame. The program successfully stored, organized, and displayed the data, providing hands-on experience with basic data handling and manipulation in Pandas.
+	This experiment provided practical knowledge related to Course Outcome C116.5 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Scipy
+	This experiment involved writing a Python program using SciPy to access predefined constants and perform MATLAB-style file operations. The program successfully displayed constant values and demonstrated saving/loading data, improving my understanding of SciPy utilities.
+	This experiment provided practical knowledge related to Course Outcome C116.5 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Matplotlib
+	I created a Python program using Matplotlib to plot graphs and display images. The program successfully generated line plots and showed an image, which enhanced my understanding of basic data visualization techniques in Python.
+	This experiment provided practical knowledge related to Course Outcome C116.5 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Exp 9
+Copy from one file to another
+	In this experiment, I wrote a Python program to copy contents from one file to another using file handling. The program successfully transferred the data and displayed it in the destination file, helping me understand file operations in Python.
+	This experiment provided practical knowledge related to Course Outcome C116.5 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Word count
+	I developed a Python program to count the number of words in a file. The program read the file, split its content into words, and displayed the word count, which provided practical experience with file reading and string operations in Python.
+	This experiment provided practical knowledge related to Course Outcome C116.5 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Longest word
+	This experiment involved writing a Python program to identify the longest word in a file. The program compared the lengths of all words and displayed the longest one, enhancing my skills in file handling and string comparison.
+	This experiment provided practical knowledge related to Course Outcome C116.5 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Exp 10
+Divide by zero error
+	I wrote a Python program to handle divide by zero exceptions. The program correctly identified division by zero and displayed an error message, helping me understand runtime exception handling in Python.
+	This experiment provided practical knowledge related to Course Outcome C116.5 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Voter’s age validity
+	In this experiment, I implemented a Python program to validate voter eligibility based on age using exception handling. The program accurately checked the age criteria and handled invalid inputs, improving my understanding of conditional logic and error management.
+	This experiment provided practical knowledge related to Course Outcome C116.5 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Student mark range validation
+	I developed a Python program to validate student marks and assign grades using exception handling. The program correctly determined the grade based on the mark range and handled incorrect inputs, enhancing my understanding of conditional statements and exception handling.
+	This experiment provided practical knowledge related to Course Outcome C116.5 and enabled me to attain the following Program Outcomes: PO1, PO2, PO3, PO5, PO8, PO9, PO12, and Program Specific Outcomes: PSO1, PSO2, PSO3.
+
+Exp 11
